@@ -60,7 +60,7 @@ def main():
     FryEggs (2)
     FryBacon()
     ToastBread (2)
-    print(f"\n{time.ctime()} >>>>>>>> Nealy to finished...")
+    print(f"\n{time.ctime()} >>>>>>>> Nearly to finished...")
     PourJuice()
 
 if __name__ == "__main__":
